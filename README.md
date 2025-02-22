@@ -37,7 +37,7 @@ The aim of this repository is to serve as a resource for students, educators, an
 1. Clone the repository:
    
    git clone https://github.com/RaianRashidRimon/Algorithms.git
-2. Navigate to the folder and run the desired code in your preferred compiler or IDE.
+2. Since OS operations require a Virtual Machine or a Linux-based OS, ensure you have VirtualBox set up with a Linux distribution. Then, navigate to the folder inside your virtual machine and run the desired code using a terminal and a compatible compiler (e.g., GCC for C programs):
 
 ## 🤝 Contribution
 Contributions are highly encouraged! If you identify any issues, have suggestions for improvement, or want to add new algorithms, feel free to:
