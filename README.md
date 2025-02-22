@@ -1,6 +1,12 @@
 # Operating System
 
 This repository contains various codes and assignments related to Operating Systems. The implementations cover key OS concepts such as system calls, process management, synchronization methods, and more. It also includes practical examples to help understand OS functionalities in depth.
+
+## 🛠️ Requirements 
+To run and understand these OS operations, a Virtual Machine is required since some system calls and functionalities are not supported natively on Windows. The recommended setup is:
+1. VirtualBox (or any other virtualization software)
+2. A Linux-based OS (e.g., Ubuntu) as the virtual machine
+
 ## 📂 Contents
 The repository is organized into the following folders:
 
@@ -24,7 +30,7 @@ The repository is organized into the following folders:
  
  
 ## 🎯 Purpose 
-The aim of this repository is to serve as a resource for students, educators, and enthusiasts interested in learning algorithms. Each algorithm is implemented with clear, structured code and is accompanied by comments to facilitate understanding. This repository is ideal for anyone preparing for technical interviews, academic studies, or competitive programming.
+The aim of this repository is to serve as a resource for students, educators, and enthusiasts interested in learning about Operating Systems. Each implementation is designed to demonstrate key OS concepts with structured code and explanatory comments. This repository is ideal for those studying OS fundamentals, preparing for technical interviews, or working on academic projects.
 ## 🚀 Usage
 1. Clone the repository:
    
