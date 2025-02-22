@@ -18,6 +18,9 @@ The repository is organized into the following folders:
     
       
  🔄 Synchronization
+
+ 
+ 🧵 Thread
  
       
  🚫 Deadlock
@@ -25,8 +28,7 @@ The repository is organized into the following folders:
  
  💾 Disk Scheduling Algorithms
 
-
- 🏗️ Advanced Data Structures
+ 
  
  
 ## 🎯 Purpose 
