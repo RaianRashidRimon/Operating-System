@@ -13,6 +13,7 @@ The repository is organized into the following folders:
  ⚙️ System Calls
 
       Write()
+      Read()
 
  🏭 Process
     
