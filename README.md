@@ -14,6 +14,7 @@ The repository is organized into the following folders:
 
       Write()
       Read()
+      Open()
 
  🏭 Process
     
