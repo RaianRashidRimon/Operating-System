@@ -12,9 +12,10 @@ The repository is organized into the following folders:
 
  ⚙️ System Calls
 
-      Write()
-      Read()
-      Open()
+      write()
+      read()
+      open()
+      
 
  🏭 Process
     
