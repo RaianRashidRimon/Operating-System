@@ -15,6 +15,7 @@ The repository is organized into the following folders:
       write()
       read()
       open()
+      lseek()
       
 
  🏭 Process
