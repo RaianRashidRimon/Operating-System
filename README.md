@@ -22,7 +22,7 @@ The repository is organized into the following folders:
  🏭 Process
 
       Duplication using fork()
-      
+      Making parent process wait for the child to finish using wait()
     
       
  🔄 Synchronization
