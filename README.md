@@ -20,6 +20,9 @@ The repository is organized into the following folders:
       
 
  🏭 Process
+
+      Duplication using fork()
+      
     
       
  🔄 Synchronization
