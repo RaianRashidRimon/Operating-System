@@ -23,7 +23,7 @@ The repository is organized into the following folders:
 
       Duplication using fork()
       Making parent process wait for the child to finish using wait()
-      
+      Creating orphan process
       Process duplication, avoiding orphan process
     
       
