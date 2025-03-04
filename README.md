@@ -21,11 +21,11 @@ The repository is organized into the following folders:
 
  🏭 Process
 
-      Duplication using fork()
+      Process duplication using fork()
       Making parent process wait for the child to finish using wait()
       Orphan process creation
       Process duplication, avoiding orphan process
-      Creating a zombie process
+      Zombie process creation
     
       
  🔄 Synchronization
