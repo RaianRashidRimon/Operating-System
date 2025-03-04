@@ -23,7 +23,7 @@ The repository is organized into the following folders:
 
       Duplication using fork()
       Making parent process wait for the child to finish using wait()
-      Creating an orphan process
+      Orphan process creation
       Process duplication, avoiding orphan process
       Creating a zombie process
     
@@ -32,6 +32,8 @@ The repository is organized into the following folders:
 
  
  🧵 Thread
+
+     Thread creation
  
       
  🚫 Deadlock
