@@ -7,6 +7,16 @@ To run and understand these OS operations, a Virtual Machine is required since s
 1. VirtualBox (or any other virtualization software)
 2. A Linux-based OS (e.g., Ubuntu) as the virtual machine
 
+To compile any program that involves the creation of thread(s), use the pthread library _(-lpthread)._
+
+Suppose the program is named "Thread.cpp", then to compile, use the following command:
+
+```$ g++ Thread.cpp -lpthread```
+
+To run the program, use:
+
+```$ ./a.out```
+
 ## 📂 Contents
 The repository is organized into the following folders:
 
