@@ -44,6 +44,8 @@ The repository is organized into the following folders:
  🧵 Thread
 
      Thread creation
+     Thread printing
+     Thread gets multiple inputs
  
       
  🚫 Deadlock
