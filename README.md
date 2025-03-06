@@ -49,7 +49,8 @@ The repository is organized into the following folders:
  
       
  🚫 Deadlock
- 
+
+     Deadlock simulation using Mutex Lock & Thread
  
  💾 Disk Scheduling Algorithms
 
