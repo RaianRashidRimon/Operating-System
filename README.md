@@ -41,6 +41,7 @@ The repository is organized into the following folders:
  🔄 Synchronization
 
       Race Condition
+      Synchronization using Mutex Locks
 
  
  🧵 Thread
