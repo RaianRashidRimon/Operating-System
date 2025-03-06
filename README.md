@@ -40,6 +40,8 @@ The repository is organized into the following folders:
       
  🔄 Synchronization
 
+      Race Condition
+
  
  🧵 Thread
 
