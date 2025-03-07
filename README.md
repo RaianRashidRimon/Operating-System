@@ -50,6 +50,7 @@ The repository is organized into the following folders:
      Thread creation
      Thread printing
      Thread gets multiple inputs
+     Dining Philosopher Problem
  
       
  🚫 Deadlock
