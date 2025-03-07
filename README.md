@@ -43,6 +43,7 @@ The repository is organized into the following folders:
       Race Condition
       Synchronization using Mutex Locks
       Synchronization using Semaphores
+      Dining Philosopher Problem
 
  
  🧵 Thread
@@ -50,9 +51,7 @@ The repository is organized into the following folders:
      Thread creation
      Thread printing
      Thread gets multiple inputs
-     Dining Philosopher Problem
- 
-      
+     
  🚫 Deadlock
 
      Deadlock simulation using Mutex Lock & Thread
