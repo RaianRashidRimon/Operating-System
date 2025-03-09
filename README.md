@@ -59,6 +59,7 @@ The repository is organized into the following folders:
  💾 Disk Scheduling Algorithms
 
      FCFS Disk Scheduling Algorithm
+     SSTF Algorithm
 
  
  
