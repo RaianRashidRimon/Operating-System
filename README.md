@@ -22,44 +22,44 @@ The repository is organized into the following folders:
 
  ⚙️ System Calls
 
-      write()
-      read()
-      open()
-      lseek()
-      dup()
+    write()
+    read()
+    open()
+    lseek()
+    dup()
       
 
  🏭 Process
 
-      Process duplication using fork()
-      Making parent process wait for the child to finish using wait()
-      Orphan process creation
-      Process duplication, avoiding orphan process
-      Zombie process creation
+    Process duplication using fork()
+    Making parent process wait for the child to finish using wait()
+    Orphan process creation
+    Process duplication, avoiding orphan process
+    Zombie process creation
     
       
  🔄 Synchronization
 
-      Race Condition
-      Synchronization using Mutex Locks
-      Synchronization using Semaphores
-      Dining Philosopher Problem
+    Race Condition
+    Synchronization using Mutex Locks
+    Synchronization using Semaphores
+    Dining Philosopher Problem
 
  
  🧵 Thread
 
-     Thread creation
-     Thread printing
-     Thread gets multiple inputs
+    Thread creation
+    Thread printing
+    Thread gets multiple inputs
      
  🚫 Deadlock
 
-     Deadlock simulation using Mutex Lock & Thread
+    Deadlock simulation using Mutex Lock & Thread
  
  💾 Disk Scheduling Algorithms
 
-     FCFS Disk Scheduling Algorithm
-     SSTF Algorithm
+    FCFS Disk Scheduling Algorithm
+    SSTF Algorithm
 
  
  
