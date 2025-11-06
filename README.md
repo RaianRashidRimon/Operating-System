@@ -2,7 +2,7 @@
 
 This repository contains various codes and assignments related to Operating Systems. The implementations cover key OS concepts such as system calls, process management, synchronization methods, and more. It also includes practical examples to help understand OS functionalities in depth.
 
-## 🛠️ Requirements 
+## Requirements 
 To run and understand these OS operations, a Virtual Machine is required since some system calls and functionalities are not supported natively on Windows. The recommended setup is:
 1. VirtualBox (or any other virtualization software)
 2. A Linux-based OS (e.g., Ubuntu) as the virtual machine
@@ -17,7 +17,7 @@ To run the program, use:
 
 ```$ ./a.out```
 
-## 📂 Contents
+## Contents
 The repository is organized into the following folders:
 
  ⚙️ System Calls
@@ -29,7 +29,7 @@ The repository is organized into the following folders:
     dup()
       
 
- 🏭 Process
+ Process
 
     Process duplication using fork()
     Making parent process wait for the child to finish using wait()
@@ -38,7 +38,7 @@ The repository is organized into the following folders:
     Zombie process creation
     
       
- 🔄 Synchronization
+ Synchronization
 
     Race Condition
     Synchronization using Mutex Locks
@@ -52,11 +52,11 @@ The repository is organized into the following folders:
     Thread printing
     Thread gets multiple inputs
      
- 🚫 Deadlock
+ Deadlock
 
     Deadlock simulation using Mutex Lock & Thread
  
- 💾 Disk Scheduling Algorithms
+ Disk Scheduling Algorithms
 
     FCFS Disk Scheduling Algorithm
     SSTF Algorithm
@@ -64,10 +64,10 @@ The repository is organized into the following folders:
  
  
  
-## 🎯 Purpose 
+## Purpose 
 The aim of this repository is to serve as a resource for students, educators, and enthusiasts interested in learning about Operating Systems. Each implementation is designed to demonstrate key OS concepts with structured code and explanatory comments. This repository is ideal for those studying OS fundamentals, preparing for technical interviews, or working on academic projects.
 
-## 🚀 Usage
+## Usage
 1. Clone the repository:
    
    git clone `https://github.com/RaianRashidRimon/Operating-System.git`
@@ -83,7 +83,7 @@ The aim of this repository is to serve as a resource for students, educators, an
    After compilation, run the prograam with:
    `./output`
 
-## 🤝 Contribution
+## Contribution
 Contributions are highly encouraged! If you identify any issues, have suggestions for improvement, or want to add new algorithms, feel free to:
 1. Open an issue describing the problem or suggestions.
 2. Fork the repository, implement your changes, and create a pull request. 
